@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-taxcalc-dev-111520-authRole",
+      "UnauthRoleArn": "arn:aws:iam::808744311066:role/amplify-taxcalc-dev-111520-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::808744311066:role/amplify-taxcalc-dev-111520-authRole",
+      "Region": "eu-central-1",
+      "DeploymentBucketName": "amplify-taxcalc-dev-111520-deployment",
+      "UnauthRoleName": "amplify-taxcalc-dev-111520-unauthRole",
+      "StackName": "amplify-taxcalc-dev-111520",
+      "StackId": "arn:aws:cloudformation:eu-central-1:808744311066:stack/amplify-taxcalc-dev-111520/29b05bd0-e278-11ed-9667-0228d4c4a590",
+      "AmplifyAppId": "d2fts2lqb6j8e4"
+    },
+    "categories": {
+      "api": {
+        "taxcalc": {}
+      },
+      "auth": {
+        "TaxCalc": {}
+      }
+    }
+  }
+}

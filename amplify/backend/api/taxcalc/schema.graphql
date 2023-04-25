@@ -1,0 +1,10 @@
+type Query  {
+    calculateTax(income: Float!, deductions: Float!, state: String!): Tax
+}
+
+type Tax
+{
+    federal: Float!
+    state: Float!
+    total: Float!
+}
